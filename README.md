@@ -25,7 +25,7 @@ As a prerequisite, CakePHP, Service_HyperEstraier and Hyper Estraier setting has
   	'node'  => 'nodename',   
   	'login' => 'admin',  
   	'password' => 'admin',  
-  );
+  );   
 `  
 4. Create model file and describe the contents of the following this.
 public $useDbConfig = 'he';
