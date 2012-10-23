@@ -9,8 +9,8 @@
  * Licensed under The MIT License
  * Redistributions of files must retain the above copyright notice.
  *
- * @copyright     Copyright 2005-2012, Cake Software Foundation, Inc. (http://cakefoundation.org)
- * @link          http://log.miraoto.com/2012/10/
+ * @copyright     Copyright (c) 2012 miraoto. All rights reserved.
+ * @link          http://log.miraoto.com/2012/10/682/
  * @package       app.Model.Datasource
  * @since         File available since Release 0.0.1
  * @license       MIT License (http://www.opensource.org/licenses/mit-license.php)
