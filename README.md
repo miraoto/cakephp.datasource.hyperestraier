@@ -18,7 +18,7 @@ As a prerequisite, CakePHP, Service_HyperEstraier and Hyper Estraier setting has
 2. Under '/app/Model/Datasource' directory, copy this datasource file (Hyperestraier.php.
 3. Describe the contents of the following in database.php  
 <code> 
-    public $he = array(
+    public $he = array(<br />
         'datasource' => 'Hyperestraier',
         'host'  => 'localhost',
         'port'  => 1978,
