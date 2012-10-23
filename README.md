@@ -17,7 +17,7 @@ As a prerequisite, CakePHP, Service_HyperEstraier and Hyper Estraier setting has
 1. Under '/app/Lib' directory, copy 'Service_Hyperestraier' library.
 2. Under '/app/Model/Datasource' directory, copy this datasource file (Hyperestraier.php.
 3. Describe the contents of the following in database.php  
-  
+<pre> 
     public $he = array(  
         'datasource' => 'Hyperestraier',   
         'host'  => 'localhost',   
@@ -26,7 +26,7 @@ As a prerequisite, CakePHP, Service_HyperEstraier and Hyper Estraier setting has
         'login' => 'admin',  
         'password' => 'admin',  
     );   
-  
+</pre>
 4. Create model file and describe the contents of the following this.
 public $useDbConfig = 'he';
 
