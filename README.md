@@ -19,10 +19,10 @@ As a prerequisite, CakePHP, Service_HyperEstraier and Hyper Estraier setting has
 3. Describe the contents of the following in database.php  
 `
   public $he = array(  
-  	'datasource' => 'Hyperestraier',  
-  	'host'  => 'localhost',  
-  	'port'  => 1978,  
-  	'node'  => 'nodename',  
+  	'datasource' => 'Hyperestraier',   
+  	'host'  => 'localhost',   
+  	'port'  => 1978,   
+  	'node'  => 'nodename',   
   	'login' => 'admin',  
   	'password' => 'admin',  
   );
